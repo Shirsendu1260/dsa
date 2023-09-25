@@ -3,3 +3,5 @@ dsa.code-workspace
 c-cpp-basics/*
 !c-cpp-basics/*.c
 !c-cpp-basics/*.cpp
+recursion/*
+!recursion/*.c
