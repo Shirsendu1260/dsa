@@ -4,6 +4,7 @@ Repository of all of my `DSA` codes.
 ### Chapters:
 * C and C++ Concepts
 * Recursion
+* Array Fundamentals
 * Array ADT
 * Matrices
 * Sparse Matrix and Polynomial Representation
