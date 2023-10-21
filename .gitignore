@@ -7,3 +7,6 @@ recursion/*
 !recursion/*.c
 array-basics/*
 !array-basics/*.c
+array-adt/*
+!array-adt/*.c
+!array-adt/*.cpp
