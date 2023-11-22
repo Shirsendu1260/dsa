@@ -10,3 +10,5 @@ array-basics/*
 array-adt/*
 !array-adt/*.c
 !array-adt/*.cpp
+strings/*
+!strings/*.c
