@@ -12,3 +12,6 @@ array-adt/*
 !array-adt/*.cpp
 strings/*
 !strings/*.c
+matrices/*
+!matrices/*.c
+!matrices/*.cpp
