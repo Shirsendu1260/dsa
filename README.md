@@ -8,9 +8,9 @@ Repository of all of my `DSA` codes.
 * Array ADT
 * Strings
 * Matrices
-* Sparse Matrix and Polynomial Representation
+* Sparse Matrix
 * Linked List
-* Sparse Matrix and Polynomial Representation using Linked List
+* Sparse Matrix using Linked List
 * Stack
 * Queue
 * Trees

@@ -15,3 +15,5 @@ strings/*
 matrices/*
 !matrices/*.c
 !matrices/*.cpp
+sparse-matrix/*
+!sparse-matrix/*.c
