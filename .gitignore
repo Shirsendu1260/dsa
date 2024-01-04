@@ -17,3 +17,5 @@ matrices/*
 !matrices/*.cpp
 sparse-matrix/*
 !sparse-matrix/*.c
+linked-lists/*
+!linked-lists/*.c
