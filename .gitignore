@@ -19,3 +19,5 @@ sparse-matrix/*
 !sparse-matrix/*.c
 linked-lists/*
 !linked-lists/*.c
+stack/*
+!stack/*.c
