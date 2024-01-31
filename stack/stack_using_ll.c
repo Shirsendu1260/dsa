@@ -9,7 +9,7 @@ struct Node{
 struct Node * top;
 
 void create(){
-    top == NULL;
+    top = NULL;
     printf("Stack is created. Currently it has 0 elements.\n\n");
 }
 
