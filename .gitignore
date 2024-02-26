@@ -23,3 +23,5 @@ stack/*
 !stack/*.c
 queue/*
 !queue/*.c
+binary-tree/*
+!binary-tree/*.c
