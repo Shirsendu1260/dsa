@@ -25,3 +25,5 @@ queue/*
 !queue/*.c
 binary-tree/*
 !binary-tree/*.c
+binary-search-tree/*
+!binary-search-tree/*.c

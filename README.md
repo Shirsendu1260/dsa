@@ -10,13 +10,9 @@ Repository of all of my `DSA` codes.
 * Matrices
 * Sparse Matrix
 * Linked List
-* Sparse Matrix using Linked List
 * Stack
 * Queue
 * Trees
 * Binary Search Tree
-* AVL Tree
-* Heap
 * Sorting Algorithms
 * Hashing
-* Graphs 
