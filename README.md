@@ -15,4 +15,5 @@ Repository of all of my `DSA` codes.
 * Trees
 * Binary Search Tree
 * Sorting Algorithms
+* Heap
 * Hashing

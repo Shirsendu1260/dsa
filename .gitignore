@@ -27,3 +27,9 @@ binary-tree/*
 !binary-tree/*.c
 binary-search-tree/*
 !binary-search-tree/*.c
+sorting/*
+!sorting/*.c
+heap/*
+!heap/*.c
+hashing/*
+!hashing/*.c
