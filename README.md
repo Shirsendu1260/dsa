@@ -1,6 +1,4 @@
 # dsa
-Repository of all of my `DSA` codes.
-
 ### Chapters:
 * C and C++ Concepts
 * Recursion
